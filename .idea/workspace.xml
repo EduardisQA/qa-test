@@ -4,18 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="76fede88-3f54-4ac5-a568-a971021a19ba" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ru/devileryClub/FirstTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ru/devileryClub/WebDriverSettings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled.iml" afterDir="false" />
-    </list>
+    <list default="true" id="76fede88-3f54-4ac5-a568-a971021a19ba" name="Default Changelist" comment="commit1" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -135,7 +124,19 @@
       <option name="presentableId" value="Default" />
       <updated>1604405414227</updated>
     </task>
+    <task id="LOCAL-00001" summary="commit1">
+      <created>1604584709286</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1604584709286</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="commit1" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit1" />
   </component>
   <component name="WindowStateProjectService">
     <state x="440" y="94" key="#Project_Structure" timestamp="1604584473602">
@@ -186,6 +187,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1604580938068" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1604584905721">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1604584905721" />
     <state x="758" y="411" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1604584592021">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
